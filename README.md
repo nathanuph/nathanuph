@@ -1,3 +1,2 @@
-- I'm currently studying CS at A-level
-- Looking to go to university next year
-- Reach me @nathuph on twitter :)
+- Studying CS at A-level
+- @nathuph on twitter
