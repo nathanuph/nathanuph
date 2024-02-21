@@ -1,2 +1,2 @@
-- Studying CS at A-level
+- CompSci undergrad
 - @nathuph on twitter
