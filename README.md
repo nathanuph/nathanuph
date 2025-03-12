@@ -1,2 +1,1 @@
 - CompSci undergrad
-- @nathuph on twitter
