@@ -1,5 +1,4 @@
 # I'm Nathan 
-
 ## Computer Science student 👨🏼‍💻
 
 --- 
