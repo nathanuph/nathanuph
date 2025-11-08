@@ -5,6 +5,7 @@
 
 ### Tools I'm using
 
+| Area | Tool |
 | :--- | :--- |
 | **Languages** | Python, Java, C |
 | **Backend** | Python, **Flask** |
