@@ -12,10 +12,12 @@
 | **Backend** | Python, **Flask** |
 | **Databases** | PostgreSQL |
 | **Frontend** | HTML5, CSS3 |
-| **DevOps/Tools** | **Git**, Docker, GitHub Actions, AWS |
+| **DevOps/Tools** | **Git**, Github, Gitlab, VScode, Eclipse |
+
+---
 
 ### What I'm up to
 
 | Project Name | Status | Technology Highlight | Link |
 | :--- | :--- | :--- | :--- |
-| **Spotify Battle** | In Development | Flask, Blueprints, Postgres, pytest | [Repo Link](https://github.com/nathanuph/Spotify-Battle) |
+| **Spotify Battle** | In Development | Flask, pytest | [Repo Link](https://github.com/nathanuph/Spotify-Battle) |
