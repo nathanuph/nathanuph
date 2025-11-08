@@ -1,9 +1,10 @@
 # I'm Nathan 🙋🏼‍♂️
 ## Computer Science student 👨🏼‍💻
+### Currently experimenting with web apps and python using the flask framework!
 
 --- 
 
-### Tools I'm using
+### My Toolset
 
 | Area | Tool |
 | :--- | :--- |
@@ -14,9 +15,3 @@
 | **DevOps/Tools** | **Git**, Github, Gitlab, VScode, Eclipse |
 
 ---
-
-### What I'm up to
-
-| Project Name | Status | Technology Highlight | Link |
-| :--- | :--- | :--- | :--- |
-| **Spotify Battle** | In Development | Flask, pytest | [Repo Link](https://github.com/nathanuph/Spotify-Battle) |
