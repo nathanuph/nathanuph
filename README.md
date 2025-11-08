@@ -5,8 +5,6 @@
 
 ### Tools I'm using
 
-| Category | Tools & Technologies |
-| :--- | :--- |
 | **Languages** | Python, Java, C |
 | **Backend** | Python, **Flask** |
 | **Databases** | PostgreSQL |
