@@ -1,6 +1,5 @@
-# I'm Nathan 🙋🏼‍♂️
+# I'm Nathan
 ## Computer Science student 👨🏼‍💻
-### Currently experimenting with web apps and python using the flask framework!
 
 --- 
 
