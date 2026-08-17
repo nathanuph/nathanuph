@@ -1,5 +1,5 @@
 # I'm Nathan
-## Computer Science student 👨🏼‍💻
+## Final Year Computer Science student 
 
 --- 
 
