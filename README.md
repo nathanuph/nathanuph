@@ -1,6 +1,5 @@
-# I'm Nathan
 ## Final Year Computer Science student 
-
+### Currently exploring web app development
 --- 
 
 ### My Toolset
