@@ -1,11 +1,10 @@
-### Nathan Uphill
+### [nathanuphill.xyz](https://nathanuphill.xyz)
 
 Final-year Computer Science student at Royal Holloway, University of London, seeking a Software Engineering graduate role. I build full-stack apps across React/React Native, Node, and Java/Spring Boot.
 
 - BSc Computer Science, Royal Holloway University of London - Expected May 2027
 - Full-stack experience: REST API design, real-time data sync, payment integration
 - London, UK
-- [nathanuphill.xyz](https://nathanuphill.xyz)
 
 ---
 
