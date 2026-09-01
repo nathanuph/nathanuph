@@ -11,7 +11,7 @@ Final-year Computer Science student at Royal Holloway, University of London, see
 
 ### What I'm Currently Working On
 
-**[Lifty.fit](lifty.fit)** - Multiplatform workout tracker  
+**[Lifty.fit](https://github.com/nathanuph/lifty)** - Multiplatform workout tracker  
 `Expo` `React/React Native` `Supabase` `Zustand` `Vercel`
 - Architected and deployed a full-stack app with persistent cloud storage and real-time backend via Supabase
 - Implemented global state management with Zustand, cutting unnecessary re-renders and keeping the UI responsive on mobile and web
